@@ -13,7 +13,6 @@ p.text-sm {
 }
 
 h3.mt-0.mb-12 {
-    text-size-adjust: 35pt !important;
     text-align: center;
     border: 3px groove #000;
     border-radius: 50px;

@@ -39,8 +39,8 @@ const App = () => {
       ref={childRef}
       children={() => (
         <Switch>
-          <AppRoute exact path="/portfolio" component={Home} layout={LayoutDefault} />
-          <AppRoute exact path="/portfolio/easter-egg" component={EasterEgg} />
+          <AppRoute exact path="/portfolio-aidan" component={Home} layout={LayoutDefault} />
+          <AppRoute exact path="/portfolio-aidan/easter-egg" component={EasterEgg} />
         </Switch>
       )} />
   );
